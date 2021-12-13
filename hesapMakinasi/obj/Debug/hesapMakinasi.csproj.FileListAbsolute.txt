@@ -1,0 +1,10 @@
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\bin\Debug\hesapMakinasi.exe.config
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\bin\Debug\hesapMakinasi.exe
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\bin\Debug\hesapMakinasi.pdb
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.csproj.AssemblyReference.cache
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.Form1.resources
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.Properties.Resources.resources
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.csproj.GenerateResource.cache
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.csproj.CoreCompileInputs.cache
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.exe
+C:\Users\PC1207\source\repos\tumAlgoritmalar\hesapMakinasi\obj\Debug\hesapMakinasi.pdb
